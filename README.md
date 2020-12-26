@@ -1,4 +1,4 @@
-# yahtzee
+# yatch-cpp
 
 C++ Implementation of the popular game yahtzee. 
 
