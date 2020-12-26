@@ -1,0 +1,12 @@
+# Git-Ignore
+
+# Doxy Related Files
+Doxyfile
+.DS_Store
+html/*
+latex/*
+
+# Compiled Artifacts
+*.o
+*.a
+
